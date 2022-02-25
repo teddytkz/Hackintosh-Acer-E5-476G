@@ -46,6 +46,6 @@ Status: -
 
 ## Known not work
 ```
-1. Discrete Graphics: GeForce MX150 2 GB GDDR5 (Disabled - MacOS not supported optimus)
+1. Discrete Graphics: GeForce MX130 2 GB GDDR5 (Disabled - MacOS not supported optimus)
 2. Wifi (Must be Replace)
 ```
