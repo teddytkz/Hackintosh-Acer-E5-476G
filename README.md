@@ -2,7 +2,7 @@
 
 ![Hackintosh Cover](https://user-images.githubusercontent.com/30723613/56214257-bd0b5a00-6087-11e9-8fd4-b06ed47d5754.png)
 
-## Detail
+## Details
 ```
 OpenCore Version: v0.7.8
 OS: MacOS BigSur
