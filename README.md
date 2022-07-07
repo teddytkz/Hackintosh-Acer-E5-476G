@@ -7,7 +7,7 @@
 OpenCore Version: v0.7.8
 OS: MacOS BigSur
 Date: 25/02/2022
-BIOS Version: -
+BIOS Version: v1.37 (Last Tested Work From Bios v1.05)
 Status: -
 ```
 
@@ -16,7 +16,7 @@ Status: -
 - Name: Acer E5-476G
 - Processor: Intel Core i5 8250U (Base 1,6 GHz/Turbo Boost 3,4 GHz)
 - Motherboard: Intel Kaby Lake-U
-- Wifi: Qualcomm Atheros
+- Wifi: Intel® Dual Band Wireless-AC 8260
 - Audio: Realtek ALC255
 - Graphics: 
   * IGP: Intel UHD Graphics 620
@@ -34,18 +34,18 @@ Status: -
 - Power Management
 - Shutdown, Restart
 - QE/CI Intel UHD Graphics 620
-- Brightness
+- Brightness (Fn Key)
 - Battery Percentage
 - Ethernet RTL8111
 - Trackpad Full gestures
 - Keyboard
 - USB 3.0
 - VGA Port
-- Bluetooth
+- Bluetooth (Not Tested With New Wifi Card)
+- Wifi
 ```
 
 ## Known not work
 ```
 1. Discrete Graphics: GeForce MX130 2 GB GDDR5 (Disabled - MacOS not supported optimus)
-2. Wifi (Must be Replace)
 ```
