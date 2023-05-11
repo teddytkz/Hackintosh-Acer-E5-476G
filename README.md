@@ -4,9 +4,9 @@
 
 ## Details
 ```
-OpenCore Version: v0.7.8
-OS: MacOS BigSur
-Date: 25/02/2022
+OpenCore Version: v0.9.2
+OS: MacOS Monterey
+Date: 11/05/2023
 BIOS Version: v1.37 (Last Tested Work From Bios v1.05)
 Status: -
 ```
@@ -25,8 +25,8 @@ Status: -
 - Storage:
   * SSD: 240GB Crucial BX500  
 - Dual Boot:
-  * Windows 11 Pro
-  * MacOS BigSur
+  * Windows 11 Pro 22H2
+  * MacOS Monterey
 ```
 
 ## Working
