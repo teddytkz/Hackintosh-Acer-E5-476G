@@ -4,9 +4,9 @@
 
 ## Details
 ```
-OpenCore Version: v0.9.2
-OS: MacOS Monterey
-Date: 11/05/2023
+OpenCore Version: v0.9.2 With Opencore Boot Picker GUI
+OS: MacOS Ventura
+Date: 06/06/2023
 BIOS Version: v1.37 (Last Tested Work From Bios v1.05)
 Status: -
 ```
@@ -21,12 +21,12 @@ Status: -
 - Graphics: 
   * IGP: Intel UHD Graphics 620
   * Discrete: GeForce MX130 2 GB GDDR5
-- Display: 14 inch @1366 x 768 pixels @60 Hz
+- Display: 14 inch @1920 x 1080 pixels @60 Hz
 - Storage:
   * SSD: 240GB Crucial BX500  
 - Dual Boot:
   * Windows 11 Pro 22H2
-  * MacOS Monterey
+  * MacOS Ventura
 ```
 
 ## Working
@@ -41,7 +41,7 @@ Status: -
 - Keyboard
 - USB 3.0
 - VGA Port
-- Bluetooth (Not Tested With New Wifi Card)
+- Bluetooth
 - Wifi
 ```
 
