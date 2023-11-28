@@ -23,9 +23,10 @@ Status: -
   * Discrete: GeForce MX130 2 GB GDDR5
 - Display: 14 inch @1920 x 1080 pixels @60 Hz
 - Storage:
-  * SSD: 240GB Crucial BX500  
+  * SSD: 240GB Crucial BX500
+  * SSD: 512GB Team M.2 NVME  
 - Dual Boot:
-  * Windows 11 Pro 22H2
+  * Windows 11 Pro 23H2
   * MacOS Ventura
 ```
 
@@ -40,7 +41,7 @@ Status: -
 - Trackpad Full gestures
 - Keyboard
 - USB 3.0
-- VGA Port
+- VGA Port [Not Tested]
 - Bluetooth
 - Wifi
 ```
