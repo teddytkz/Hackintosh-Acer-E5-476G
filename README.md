@@ -4,11 +4,12 @@
 
 ## Details
 ```
-OpenCore Version: v0.9.2 With Opencore Boot Picker GUI
+OpenCore Version: v1.0.1 With Opencore Boot Picker GUI
 OS: MacOS Ventura
-Date: 06/06/2023
+Date: 15/08/2024
 BIOS Version: v1.37 (Last Tested Work From Bios v1.05)
 Status: -
+Bug: Reset NVRAM if Blank Screen on Boot Picker
 ```
 
 ## Specification
