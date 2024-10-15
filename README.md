@@ -26,8 +26,9 @@ Bug: Reset NVRAM if Blank Screen on Boot Picker
 - Storage:
   * SSD: 240GB Crucial BX500
   * SSD: 512GB Team M.2 NVME  
-- Dual Boot:
+- Triple Boot:
   * Windows 11 Pro 23H2
+  * Arch Linux
   * MacOS Ventura
 ```
 
