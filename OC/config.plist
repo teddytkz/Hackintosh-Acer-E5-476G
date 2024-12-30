@@ -218,7 +218,7 @@
 				<key>device-id</key>
 				<data>FlkAAA==</data>
 				<key>framebuffer-con1-alldata</key>
-				<data>AQUKAAAIAACHAQAAAgQKAAAIAACHAQAA/wAAAAEAAAAgAAAA</data>
+				<data>AQUKAAAIAACHAQAA</data>
 				<key>framebuffer-con1-enable</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-fbmem</key>
@@ -1400,21 +1400,21 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02710405QXJ1JHJC</string>
+			<string>C029012074NJH4RAD</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>iGtuZN6f</data>
+			<data>eP2U81XM</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro14,3</string>
+			<string>MacBookPro15,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02TDQYFHTD5</string>
+			<string>C02Y2EY9JHCC</string>
 			<key>SystemUUID</key>
-			<string>A986C636-A76E-4FE6-83AC-24696DB89173</string>
+			<string>A9351D9B-0D71-499C-948E-D92F5099D884</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
